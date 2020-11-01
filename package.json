@@ -1,0 +1,11 @@
+{
+  "name": "tls-test-emitter",
+  "version": "0.0.1",
+  "description": "Program to receive raw TCP and relay onward as TLS using a given key",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Wigdahl",
+  "license": "ISC"
+}
